@@ -1,0 +1,10 @@
+1. what we going to test?
+User login and registration ok
+2. we make some tweaks with storm, ok working
+soon I will have to go to eat.
+3. we are trying to login, but we don't know where is the problem. here starts most interesting part, debug.
+1.check logs
+2.check phpunit output
+
+
+yes sure
